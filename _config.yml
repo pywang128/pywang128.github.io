@@ -4,6 +4,7 @@ description: My Data Science Profolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 url: "https://pywang128.github.io/"
+github: "https://github.com/pywang128"
 
 # User settings
 username: Paul Y. Wang
