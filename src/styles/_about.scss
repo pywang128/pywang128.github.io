@@ -9,6 +9,13 @@
 
 .tech {
   margin: 10px;
+  display: flex;
+  width:90%;
+  height:100px;
+}
+
+.wrapper div {
+    flex-basis: 100%;
 }
 
 .user {
